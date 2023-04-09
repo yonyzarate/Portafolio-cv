@@ -571,7 +571,7 @@ progress::-moz-progress-bar {
     grid-column: span 2;
   }
   .portfolio-modal {
-    max-width: 850px;
+    max-width: 800px;
     flex-direction: row;
   }
   .portfolio-info {
